@@ -1,0 +1,40 @@
+#logo
+{
+    margin-top: 1%;
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 150px;
+}
+
+* { margin:0; padding:0; }
+
+dl
+{
+    height: 45px;
+    float : left;
+    text-align: center;
+    margin-right: 15px;
+    border-left: 1px dotted #c7c7c7;
+    padding-left: 13px;
+}
+
+#row
+{
+    margin-bottom: 1px;
+}
+
+/*#radiobuttons
+{
+    display: inline-block;
+}
+
+#radiobuttons label 
+{
+  display: inline-block;
+  margin: 0 0.2em;
+  text-align: center;
+}
+
+#radiobuttons label input[type="radio"] {
+    margin: 0.5em auto;
+}*/
